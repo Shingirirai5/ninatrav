@@ -6243,7 +6243,7 @@ static-hero-s4
 .wpo-cta-section-s2,
 .wpo-cta-section-s3 {
     padding: 145px 0;
-    background: url(../images/cta/bg.jpg) no-repeat center center;
+    background: url(../images/vid.jpg) no-repeat center center;
     position: relative;
     z-index: 1;
 }
@@ -7856,7 +7856,7 @@ static-hero-s4
 /* 6.6 wpo-cta-section-s3 */
 
 .wpo-cta-section-s3 {
-    background: url(../images/fav.pngs) no-repeat center center;
+    background: url(../images/fav.png) no-repeat center center;
 }
 
 .wpo-cta-section-s3 .wpo-cta-item h2 {
